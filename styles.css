@@ -78,23 +78,23 @@ span {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
+#gift-img-happy:hover, gift-img-happy:active {
     background-image: url("images/happy.gif");
 }
 
-#gift-img-hot:hover {
+#gift-img-hot:hover, gift-img-hot:active  {
     background-image: url("https://media.giphy.com/media/cOJ2MipQqppkmpoCnu/giphy.gif");
 }
 
-#gift-img-genius:hover {
+#gift-img-genius:hover, gift-img-genius:active  {
     background-image: url("https://media.giphy.com/media/vhQjXuLGDz1W8DV8gN/giphy.gif");
 }
 
-#gift-img-badass:hover {
+#gift-img-badass:hover, gift-img-badass:active  {
     background-image: url("https://media.giphy.com/media/5rUG5e98jvlhm/giphy.gif");
 }
 
-#gift-img-cheers:hover {
+#gift-img-cheers:hover, gift-img-cheers:active {
     background-image: url("images/cheers.gif");
 }
 
